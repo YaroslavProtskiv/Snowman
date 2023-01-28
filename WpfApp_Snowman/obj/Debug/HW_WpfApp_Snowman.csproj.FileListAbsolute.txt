@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\HW_WpfApp\HW_WpfApp_Snowman\bin\Debug\HW_WpfApp_Snowman.exe.config
+C:\Users\User\source\repos\HW_WpfApp\HW_WpfApp_Snowman\bin\Debug\HW_WpfApp_Snowman.exe
+C:\Users\User\source\repos\HW_WpfApp\HW_WpfApp_Snowman\bin\Debug\HW_WpfApp_Snowman.pdb
+C:\Users\User\source\repos\HW_WpfApp\HW_WpfApp_Snowman\obj\Debug\HW_WpfApp_Snowman.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\HW_WpfApp\HW_WpfApp_Snowman\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\HW_WpfApp\HW_WpfApp_Snowman\obj\Debug\App.g.cs
+C:\Users\User\source\repos\HW_WpfApp\HW_WpfApp_Snowman\obj\Debug\HW_WpfApp_Snowman_MarkupCompile.cache
+C:\Users\User\source\repos\HW_WpfApp\HW_WpfApp_Snowman\obj\Debug\HW_WpfApp_Snowman_MarkupCompile.lref
+C:\Users\User\source\repos\HW_WpfApp\HW_WpfApp_Snowman\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\HW_WpfApp\HW_WpfApp_Snowman\obj\Debug\HW_WpfApp_Snowman.g.resources
+C:\Users\User\source\repos\HW_WpfApp\HW_WpfApp_Snowman\obj\Debug\HW_WpfApp_Snowman.Properties.Resources.resources
+C:\Users\User\source\repos\HW_WpfApp\HW_WpfApp_Snowman\obj\Debug\HW_WpfApp_Snowman.csproj.GenerateResource.cache
+C:\Users\User\source\repos\HW_WpfApp\HW_WpfApp_Snowman\obj\Debug\HW_WpfApp_Snowman.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HW_WpfApp\HW_WpfApp_Snowman\obj\Debug\HW_WpfApp_Snowman.exe
+C:\Users\User\source\repos\HW_WpfApp\HW_WpfApp_Snowman\obj\Debug\HW_WpfApp_Snowman.pdb
